@@ -20,6 +20,7 @@ Java bootcamp
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
@@ -56,6 +57,7 @@ Java bootcamp
 | [0078-subsets](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
@@ -194,6 +196,7 @@ Java bootcamp
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0704-binary-search) |
 ## Doubly-Linked List
