@@ -56,6 +56,7 @@ Java bootcamp
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -79,6 +80,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -202,4 +204,28 @@ Java bootcamp
 | ------- |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1791-find-center-of-star-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
