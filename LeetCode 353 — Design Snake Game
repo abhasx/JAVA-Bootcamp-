@@ -1,0 +1,76 @@
+import java.util.*;
+
+class SnakeGame {
+
+    private int width;
+    private int height;
+    private int[][] food;
+    private int foodIndex;
+
+    private Deque<Integer> snake;
+    private Set<Integer> occupied;
+
+    public SnakeGame(int width, int height, int[][] food) {
+        this.width = width;
+        this.height = height;
+        this.food = food;
+        this.foodIndex = 0;
+
+        snake = new LinkedList<>();
+        occupied = new HashSet<>();
+
+        // Snake starts at (0,0)
+        snake.offerFirst(0);
+        occupied.add(0);
+    }
+
+    public int move(String direction) {
+
+        int head = snake.peekFirst();
+        int row = head / width;
+        int col = head % width;
+
+        // Calculate new head position
+        switch (direction) {
+            case "U": row--; break;
+            case "D": row++; break;
+            case "L": col--; break;
+            case "R": col++; break;
+        }
+
+        // Check boundary
+        if (row < 0 || row >= height || col < 0 || col >= width) {
+            return -1;
+        }
+
+        int newHead = row * width + col;
+
+        // Check if food is eaten
+        boolean eatFood = foodIndex < food.length
+                && row == food[foodIndex][0]
+                && col == food[foodIndex][1];
+
+        // If not eating, remove tail first
+        // Important: this allows moving into the tail's previous position
+        if (!eatFood) {
+            int tail = snake.pollLast();
+            occupied.remove(tail);
+        }
+
+        // Check collision with itself
+        if (occupied.contains(newHead)) {
+            return -1;
+        }
+
+        // Add new head
+        snake.offerFirst(newHead);
+        occupied.add(newHead);
+
+        // Increase score if food eaten
+        if (eatFood) {
+            foodIndex++;
+        }
+
+        return foodIndex;
+    }
+}
