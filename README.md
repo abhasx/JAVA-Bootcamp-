@@ -31,6 +31,7 @@ Java bootcamp
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
+| [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Java bootcamp
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1701-average-waiting-time) |
@@ -195,4 +197,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
