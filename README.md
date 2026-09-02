@@ -62,6 +62,7 @@ Java bootcamp
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -87,6 +88,7 @@ Java bootcamp
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -205,6 +207,7 @@ Java bootcamp
 | [0033-search-in-rotated-sorted-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0704-binary-search) |
 ## Doubly-Linked List
@@ -269,4 +272,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0986-interval-list-intersections) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
