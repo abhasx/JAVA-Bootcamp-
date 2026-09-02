@@ -8,6 +8,7 @@ Java bootcamp
 | [0008-string-to-integer-atoi](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ Java bootcamp
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +65,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Java bootcamp
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +88,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
