@@ -20,4 +20,16 @@ Java bootcamp
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
