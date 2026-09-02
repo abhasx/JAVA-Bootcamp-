@@ -31,6 +31,7 @@ Java bootcamp
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ Java bootcamp
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
@@ -78,6 +80,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
