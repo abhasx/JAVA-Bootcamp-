@@ -55,6 +55,7 @@ Java bootcamp
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
 | [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
@@ -92,6 +93,7 @@ Java bootcamp
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -129,6 +131,7 @@ Java bootcamp
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -171,6 +174,7 @@ Java bootcamp
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
@@ -239,4 +243,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
