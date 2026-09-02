@@ -35,6 +35,7 @@ Java bootcamp
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ Java bootcamp
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 ## Stack
 |  |
@@ -88,6 +90,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
