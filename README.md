@@ -10,12 +10,14 @@ Java bootcamp
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
+| [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
