@@ -24,6 +24,7 @@ Java bootcamp
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0986-interval-list-intersections](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ Java bootcamp
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
+| [0986-interval-list-intersections](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -263,4 +265,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
