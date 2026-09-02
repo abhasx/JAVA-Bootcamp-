@@ -60,6 +60,7 @@ Java bootcamp
 | [0200-number-of-islands](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1260-shift-2d-grid) |
@@ -194,6 +195,7 @@ Java bootcamp
 | [0033-search-in-rotated-sorted-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0704-binary-search) |
 ## Doubly-Linked List
 |  |
 | ------- |
