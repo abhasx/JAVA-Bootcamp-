@@ -12,6 +12,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,10 +21,12 @@ Java bootcamp
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
