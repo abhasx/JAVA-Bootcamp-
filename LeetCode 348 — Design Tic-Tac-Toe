@@ -1,0 +1,44 @@
+class TicTacToe {
+
+    private int[] rows;
+    private int[] cols;
+    private int diagonal;
+    private int antiDiagonal;
+    private int n;
+
+    public TicTacToe(int n) {
+        this.n = n;
+        rows = new int[n];
+        cols = new int[n];
+    }
+
+    public int move(int row, int col, int player) {
+
+        // Player 1 = +1
+        // Player 2 = -1
+        int value = (player == 1) ? 1 : -1;
+
+        rows[row] += value;
+        cols[col] += value;
+
+        if (row == col) {
+            diagonal += value;
+        }
+
+        if (row + col == n - 1) {
+            antiDiagonal += value;
+        }
+
+        // If absolute value becomes n,
+        // that player has filled the entire row/column/diagonal
+        if (Math.abs(rows[row]) == n ||
+            Math.abs(cols[col]) == n ||
+            Math.abs(diagonal) == n ||
+            Math.abs(antiDiagonal) == n) {
+
+            return player;
+        }
+
+        return 0;
+    }
+}
