@@ -22,6 +22,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -76,4 +77,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
