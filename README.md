@@ -25,6 +25,7 @@ Java bootcamp
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
@@ -49,4 +50,12 @@ Java bootcamp
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
