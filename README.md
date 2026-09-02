@@ -30,6 +30,7 @@ Java bootcamp
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ Java bootcamp
 | [0001-two-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
@@ -72,6 +74,7 @@ Java bootcamp
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 ## Simulation
