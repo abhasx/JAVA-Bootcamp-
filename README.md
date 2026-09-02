@@ -125,6 +125,7 @@ Java bootcamp
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0543-diameter-of-binary-tree) |
 ## Design
@@ -158,6 +159,7 @@ Java bootcamp
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -170,11 +172,13 @@ Java bootcamp
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -183,4 +187,12 @@ Java bootcamp
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
