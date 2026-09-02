@@ -5,6 +5,7 @@ Java bootcamp
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -15,6 +16,7 @@ Java bootcamp
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
@@ -77,6 +79,7 @@ Java bootcamp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 ## Greedy
@@ -276,4 +279,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0209-minimum-size-subarray-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
