@@ -125,6 +125,7 @@ Java bootcamp
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Java bootcamp
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -170,4 +172,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
