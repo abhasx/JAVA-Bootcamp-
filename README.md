@@ -17,6 +17,7 @@ Java bootcamp
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
@@ -106,6 +107,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -133,10 +135,12 @@ Java bootcamp
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
