@@ -45,6 +45,7 @@ Java bootcamp
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [1701-average-waiting-time](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1701-average-waiting-time) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Java bootcamp
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [1603-design-parking-system](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1603-design-parking-system) |
+| [1701-average-waiting-time](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1701-average-waiting-time) |
 ## Backtracking
 |  |
 | ------- |
