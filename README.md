@@ -45,6 +45,7 @@ Java bootcamp
 | [0134-gas-station](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0238-product-of-array-except-self) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1701-average-waiting-time) |
 ## Dynamic Programming
 |  |
