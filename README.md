@@ -14,6 +14,7 @@ Java bootcamp
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
