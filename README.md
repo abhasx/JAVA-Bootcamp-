@@ -44,6 +44,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0048-rotate-image) |
@@ -187,6 +188,7 @@ Java bootcamp
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Doubly-Linked List
