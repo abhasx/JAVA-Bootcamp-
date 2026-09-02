@@ -11,6 +11,7 @@ Java bootcamp
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -25,6 +26,7 @@ Java bootcamp
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
@@ -35,6 +37,7 @@ Java bootcamp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -65,4 +68,12 @@ Java bootcamp
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
