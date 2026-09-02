@@ -123,6 +123,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
 | ------- |
@@ -151,12 +152,15 @@ Java bootcamp
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
