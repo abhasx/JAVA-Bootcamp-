@@ -1,0 +1,90 @@
+import java.util.*;
+
+class Excel {
+
+    private int[][] values;
+    private Map<String, Map<String, Integer>> formulas;
+
+    public Excel(int height, char width) {
+        values = new int[height][width - 'A' + 1];
+        formulas = new HashMap<>();
+    }
+
+    public void set(int row, char column, int val) {
+        int r = row - 1;
+        int c = column - 'A';
+
+        values[r][c] = val;
+
+        // Remove formula if this cell was previously a formula
+        formulas.remove(getKey(row, column));
+    }
+
+    public int get(int row, char column) {
+        String key = getKey(row, column);
+
+        if (!formulas.containsKey(key)) {
+            return values[row - 1][column - 'A'];
+        }
+
+        int sum = 0;
+
+        for (Map.Entry<String, Integer> entry : formulas.get(key).entrySet()) {
+            sum += getCellValue(entry.getKey()) * entry.getValue();
+        }
+
+        return sum;
+    }
+
+    public int sum(int row, char column, String[] numbers) {
+
+        Map<String, Integer> formula = new HashMap<>();
+
+        for (String s : numbers) {
+
+            if (!s.contains(":")) {
+                formula.put(s, formula.getOrDefault(s, 0) + 1);
+            } else {
+
+                String[] cells = s.split(":");
+
+                int startRow = getRow(cells[0]);
+                int startCol = getCol(cells[0]);
+
+                int endRow = getRow(cells[1]);
+                int endCol = getCol(cells[1]);
+
+                for (int r = startRow; r <= endRow; r++) {
+                    for (int c = startCol; c <= endCol; c++) {
+                        String cell = "" + (char) ('A' + c) + (r + 1);
+                        formula.put(cell,
+                                formula.getOrDefault(cell, 0) + 1);
+                    }
+                }
+            }
+        }
+
+        formulas.put(getKey(row, column), formula);
+
+        return get(row, column);
+    }
+
+    private int getCellValue(String cell) {
+        int row = getRow(cell) + 1;
+        char col = (char) ('A' + getCol(cell));
+
+        return get(row, col);
+    }
+
+    private String getKey(int row, char col) {
+        return "" + col + row;
+    }
+
+    private int getRow(String cell) {
+        return Integer.parseInt(cell.substring(1)) - 1;
+    }
+
+    private int getCol(String cell) {
+        return cell.charAt(0) - 'A';
+    }
+}
