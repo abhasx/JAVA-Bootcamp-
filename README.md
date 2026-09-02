@@ -16,6 +16,7 @@ Java bootcamp
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1768-merge-strings-alternately) |
@@ -26,6 +27,7 @@ Java bootcamp
 | [0012-integer-to-roman](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -130,8 +132,13 @@ Java bootcamp
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
