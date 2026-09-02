@@ -71,6 +71,7 @@ Java bootcamp
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1603-design-parking-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,4 +96,12 @@ Java bootcamp
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
