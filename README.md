@@ -25,6 +25,7 @@ Java bootcamp
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0056-merge-intervals) |
@@ -60,4 +61,8 @@ Java bootcamp
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/abhasx/JAVA-Bootcamp-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
